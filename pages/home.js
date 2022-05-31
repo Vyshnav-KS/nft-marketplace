@@ -44,7 +44,7 @@ const home = () => {
 							fontWeight: 700,
 						}}
 					>
-						NFT MARKETPLACE
+						DISCOVER DIGITAL ARTS
 					</span>
 
 					<span
@@ -56,8 +56,7 @@ const home = () => {
 							fontWeight: 500,
 						}}
 					>
-						Picking the perfect UI font for your website or app has its
-						challenges.
+						Discover, collect, and sell extraordinary NFTs
 					</span>
 					<div
 						className="buttons"
@@ -131,7 +130,7 @@ const home = () => {
 						marginTop: 120,
 					}}
 				>
-					Latest Items
+					Tokens
 				</div>
 				<div
 					style={{

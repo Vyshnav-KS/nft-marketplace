@@ -97,7 +97,7 @@ export default function CreatorDashboard() {
 							key={i}
 							style={{
 								width: 350,
-								height: 350,
+								maxHeight: 350,
 								borderRadius: 16,
 								background:
 									"linear-gradient(148.82deg, rgba(196, 196, 196, 0.16) 0%, rgba(196, 196, 196, 0.4) 98.79%)",

@@ -189,6 +189,7 @@ export default function CreateItem() {
 						}}
 						width="300"
 						src={fileUrl}
+						alt="image"
 					/>
 				)}
 				<button
